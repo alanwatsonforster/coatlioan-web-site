@@ -1,0 +1,5 @@
+J2000
+# BAT GCN 22909
+#circle 12:06:40.00 +66:02:05.0 3' # color=blue width=2
+# XRT GCN 22933
+circle 12:06:34.22 +66:02:13.7 1.7" # color=red width=2

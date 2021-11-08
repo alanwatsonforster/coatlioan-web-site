@@ -1,0 +1,9 @@
+J2000
+# BAT GCN 22947
+circle 15:40:17.00 -00:55:28.0 3' # color=blue width=2
+# XRT GCN 22953
+circle 15:40:32.68 -00:57:21.2  6.1" # color=red width=2
+circle 15:40:23.21 -00:58:33.6  5.4" # color=red width=2
+circle 15:40:30.15 -00:52:44.8  6.5" # color=red width=2
+circle 15:39:59.51 -00:57:01.5  5.0" # color=red width=2
+circle 15:40:06.98 -00:55:10.6 10.7" # color=red width=2
