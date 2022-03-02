@@ -41,3 +41,4 @@ COATLI is lead by:
 
 * Alan Watson (Principal Investigator and Project Manager)
 * Salvador Cuevas (Project Engineer)
+* Diego González (Project Scientist)
