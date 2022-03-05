@@ -25,6 +25,7 @@
 
 HTMLS 			=	index.html \
 				status.html \
+				news-2022.html \
 				news-2021.html \
 				news-2020.html \
 				news-2019.html \
