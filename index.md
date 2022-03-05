@@ -13,7 +13,7 @@ For more details, see our article Watson et al. 2016, Proc. SPIE, 9908, 990850: 
 <hr/>
 
 * [Status](status.html)
-* [News](news-2020.html)
+* [News](news-2021.html)
 * Technical Information
   - [Telescope](telescope.html)
   - [Interim Instrument](interim-instrument.html)
