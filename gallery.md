@@ -173,7 +173,7 @@ for the observatory's all-sky camera.
 
 <hr/>
 
-Videos of COATLI 
+# COATLI: Videos
 
 [Gaceta UNAM](https://www.youtube.com/watch?v=nRcT96wg77c)</a>
 
