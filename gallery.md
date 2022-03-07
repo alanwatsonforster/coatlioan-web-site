@@ -168,10 +168,11 @@ COATLI site during the site selection process in May 2014. The site is on a rock
 outcrop to the south of the existing 84-cm telescope. The white mast is
 for the observatory's all-sky camera.
 
+* [Full Resolution](gallery/20140507T125046.jpg)
+* Copyright (c) 2014 Alan M. Watson
+
+<hr/>
+
 Videos of COATLI 
 
 [Gaceta UNAM](https://www.youtube.com/watch?v=nRcT96wg77c)
-
-
-* [Full Resolution](gallery/20140507T125046.jpg)
-* Copyright (c) 2014 Alan M. Watson
