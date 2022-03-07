@@ -3,7 +3,7 @@
 * Refereed Science Papers
 
   * [All](http://bit.ly/2kzaZ88) (4 to date)
-  * [2022](https://bit.ly/3Mxg0WW)
+  * [2022](https://bit.ly/3Mxg0WW) (1)
   * [2019](http://bit.ly/2keja9u) (3)
 
 * [GCN Circulars](https://gcn.gsfc.nasa.gov/gcn3_circulars.html)
