@@ -25,8 +25,8 @@
 
 * Thesis
 
-  * Becerra, PhD, UNAM, received 2019 with "mención honorífica": "Estudio de 
-  emisión óptica temprada y tardía de GRBs con el telescopio robótico COATLI".
+  * [Becerra, PhD, UNAM, received 2019 with "mención honorífica": "Estudio de 
+  emisión óptica temprada y tardía de GRBs con el telescopio robótico COATLI"](132.248.9.195/ptd2019/marzo/0787134/Index.html)
 
 We include papers and theses that use COATLI data that were either
 previously unpublished or previously published only in GCN Circulars.
