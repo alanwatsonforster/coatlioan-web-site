@@ -1,4 +1,4 @@
-# COATLI: Gallery
+# COATLI: Gallery and Videos
 
 These works are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
@@ -170,3 +170,13 @@ for the observatory's all-sky camera.
 
 * [Full Resolution](gallery/20140507T125046.jpg)
 * Copyright (c) 2014 Alan M. Watson
+
+<hr/>
+
+# COATLI: Videos
+
+[Gaceta UNAM](https://www.youtube.com/watch?v=nRcT96wg77c)</a>
+
+[Opening COATLI](https://www.youtube.com/watch?v=J0UVQa2tgqA&t=1s)</a>
+
+[Working on COATLI](https://www.youtube.com/watch?v=IhkaZUrdBjM&t=1s)</a>

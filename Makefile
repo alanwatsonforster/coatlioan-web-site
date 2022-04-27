@@ -25,6 +25,8 @@
 
 HTMLS 			=	index.html \
 				status.html \
+				news-2022.html \
+				news-2021.html \
 				news-2020.html \
 				news-2019.html \
 				news-2018.html \
@@ -44,8 +46,9 @@ all			: 	$(HTMLS)
 
 install			:	all
 	rsync -v --chmod=u=rwX,go=rX \
-	  coatli.conf transientscu-services:/etc/apache2/sites-enabled/
+	  coatli.conf /etc/apache2/sites-enabled/
 	rsync -ahv --chmod=u=rwX,go=rX --delete \
+	  --exclude=.git/ \
 	  --include=./ \
 	  --include=*/ \
 	  --include=*.html \
@@ -54,7 +57,7 @@ install			:	all
 	  --include=*.jpg \
 	  --include=*.pdf \
 	  --exclude=* \
-	  . transientscu-services:/usr/local/var/www/coatli/html
+	  . /usr/local/var/www/coatli/html
 
 ########################################################################
 
