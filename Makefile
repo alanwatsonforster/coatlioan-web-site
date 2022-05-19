@@ -46,18 +46,19 @@ all			: 	$(HTMLS)
 
 install			:	all
 	rsync -v --chmod=u=rwX,go=rX \
-	  coatli.conf /etc/apache2/sites-enabled/
+	  coatli.conf transientscu-services:/etc/apache2/sites-enabled/
 	rsync -ahv --chmod=u=rwX,go=rX --delete \
 	  --exclude=.git/ \
 	  --include=./ \
 	  --include=*/ \
 	  --include=*.html \
-	  --include=*.css \
-	  --include=*.png \
-	  --include=*.jpg \
 	  --include=*.pdf \
+	  --include=*.jpg \
+	  --include=*.png \
+	  --include=*.css \
+	  --include=*.mp4 \
 	  --exclude=* \
-	  . /usr/local/var/www/coatli/html
+	  . transientscu-services:/usr/local/var/www/coatli/html
 
 ########################################################################
 
